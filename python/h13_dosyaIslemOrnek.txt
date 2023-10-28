@@ -1,0 +1,12 @@
+Ali Can,70,90
+Veli Cem,90,80
+Ahmet Kalem,60,30
+Zeynep Masa,80,40
+Ayşe Işık,70,20
+Hasan Kara,90,90
+Merve Ak,40,30
+Levent Kırmızı,50,70
+Mehmet Sarı,70,60
+Lale Sarı,20,80
+Hüseyin Mor,40,10
+Osman Mavi,10,10
