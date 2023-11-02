@@ -1,0 +1,20 @@
+Kod İçin İsterler
+
+100 bin satırlık dataframe oluşturulacak. 
+1.kolon boy kolonu olsun. boy kolonunda 1 ile 1 milyon arasında random integer rakamlar
+2.kolon yaş kolonu olsun. yaş kolonunda 10 bin ile 30 bin arasında integer rakamlar
+Aynı zamanda boy değerlerine göre bir sıralama yapılacak.
+
+-Açıklama-
+
++ Datayı 10 parçaya böl. Bu bölmeyi şu şekilde yapacaksın diyelim ki ID im 4 olsun, ve bu ID min değer 
+karşılıkları 4,5,6,7 olsun. 
+
++ Datayı bölerken bu ID me karşılık gelen değerlerimin de aynnı parçanın içerisinde olmasını istiyorum. 
+Yani ID değerine karşılık gelen bütün değerlerim bölünen aynı excel dosyasının içerisinde olacak.
+
++Bu işlemi yaparken yerleştirdiğin ID lere karşılık gelen değerlerimin toplamı 10 parçada da birbirine eşit 
+olmasa da yakın değerler olmasını istiyorum. 
+
++Aynı zamanda toplam ID sayılarımında birbirine eşit sayıda olmasada yakın sayıda bölünen excel dosyalarına 
+dağılmasını istiyorum
